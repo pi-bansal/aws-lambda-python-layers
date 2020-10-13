@@ -1,2 +1,2 @@
 # aws-lambda-python-layers
-A repo for python layers compiled
+A repo for AWS Lambda packaged Python layers.
